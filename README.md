@@ -6,11 +6,11 @@ Core concepts to learn
 
 ### Python
 
-Language fluency: lists, dictionaries, sets, comprehensions, loops, functions, scope and mutability.
-Reliable programs: modules, type hints, exceptions, CSV/JSON, environments, testing and debugging.
-Data work: pandas filtering/grouping/merging, missing values, dates and NumPy array shapes/vectorization.
-Integration basics: parameterized SQL, HTTP/JSON, response validation and timeouts.
-Readiness test: independently parse an imperfect file, validate it, aggregate it and test failure cases.
+- Language fluency: lists, dictionaries, sets, comprehensions, loops, functions, scope and mutability.
+- Reliable programs: modules, type hints, exceptions, CSV/JSON, environments, testing and debugging.
+- Data work: pandas filtering/grouping/merging, missing values, dates and NumPy array shapes/vectorization.
+- Integration basics: parameterized SQL, HTTP/JSON, response validation and timeouts.
+- Readiness test: independently parse an imperfect file, validate it, aggregate it and test failure cases.
 
 ### SQL
 
